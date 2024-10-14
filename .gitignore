@@ -1,2 +1,7 @@
 # Jupyter Notebook checkpoints 폴더 제외
 notebooks/.ipynb_checkpoints/
+
+# 악성 패키지 폴더 제외
+data/package/malicious/Backstabber-Knife/
+data/package/malicious/Maloss/
+data/package/malicious/Snyk.io/
